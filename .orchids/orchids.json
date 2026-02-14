@@ -1,0 +1,7 @@
+{
+  "projectId": "538a6a50-1156-4174-ab2d-7c8f72ee6122",
+  "createdAt": 1771093265272,
+  "version": "1.0",
+  "startupCommands": ["npx vite --host 0.0.0.0 --port 3000"],
+  "templateId": "any"
+}
